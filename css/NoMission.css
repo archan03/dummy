@@ -114,3 +114,17 @@ body{
 .rating .item img{
     height: 25px;
 }
+
+.cards p{
+    font-size: 13px ;
+    margin: 0;
+}
+
+.cards .item{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E8E8E8;
+    border-radius: 3px;
+    width: 100%;
+    padding: 10px;
+    min-height: 130px;
+}
